@@ -1,0 +1,14 @@
+# This is Git's per-user configuration file.
+[user]
+	email = andersbusch@gmail.com
+	name = Anders Busch
+[alias]
+	st = status --short --branch
+	ci = commit
+	br = branch
+	co = checkout
+	pl = pull
+	ph = push
+	lo = log --oneline
+[core]
+    editor = vim
